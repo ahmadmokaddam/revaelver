@@ -3,7 +3,7 @@
 
 <p> Tweaked IPA for WhatsApp Messenger - Jailbreak Required </p>
 
-<hr>
+<hr> 
 
 <h4> Jailbreak Instructions: </h4>
 <ul>
