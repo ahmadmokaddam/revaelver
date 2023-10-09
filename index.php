@@ -1,2 +1,2 @@
-{"currentVersion": "10.20"}
+{"currentVersion": "10.19.1"}
 
