@@ -1,3 +1,17 @@
+10.21
+Whats New :
+. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
+
+. Latest update compatibility WhatsApp 23.21.70.
+. Fix freezing or Crash in offline mode.
+. Fix call blocking.
+. Fix disabling internet.
+. Fix unlimited sending features such as sending photos and videos.
+. Fix: I am not online.
+. Moved the Check Update and Change History options into settings.
+. More modifications and fixes to ensure the stability of tweak.
+
+
 10.20
 
  Whats New :
