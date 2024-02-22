@@ -1,3 +1,15 @@
+10.22
+Whats New :
+. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
+
+. Latest update compatibility WhatsApp 24.3.76.
+. Update features.
+. Added support via USDT.
+. Fix disabling internet.
+. Fix unlimited sending status.
+
+
+
 10.21
 Whats New :
 . Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
