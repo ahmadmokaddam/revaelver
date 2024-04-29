@@ -1,3 +1,38 @@
+10.23
+Whats New :
+. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
+
+. Latest update compatibility WhatsApp 24.8.83
+. Whats New Update:
+. Updated all features of the privacy section.
+. Updated all features of the Story section.
+. Add a watch icon for statuses.
+
+. Story section:
+1- Updated all features in chats section.
+2- Manually add a watch button to statuses..
+3- More improvements and updates.
+
+. Chats section:
+1- Updated all features in chats section.
+2- Added a feature to increase the limit of forward messages.
+3- Added Options Mark View Once Opened.
+4- Added Allow sharing and Forward.
+5- Added Skip Mark View Once Audio.
+6- Added Allow Screenshot & Record View Once.
+7- Add a button to save your profile and share.
+8- Manually add a watch button for Mark View media at once.
+9- More improvements and updates.
+
+. More section:
+1- Updated all features in chats section.
+2- Change the feature of sending a long video.
+3- Change the feature of sending a large video.
+4- Add the option to send unlimited media.
+5- More improvements and updates.
+
+. I also made a lot of fixes and improvements.
+
 10.22
 Whats New :
 . Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
