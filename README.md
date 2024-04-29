@@ -6,7 +6,7 @@ Whats New :
 . Whats New Update:
 . Updated all features of the privacy section.
 . Updated all features of the Story section.
-. Add a watch icon for statuses.
+. Added the feature of changing the geographical location via the map.
 
 . Story section:
 1- Updated all features in chats section.
